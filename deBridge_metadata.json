@@ -1,0 +1,12 @@
+{
+  "name": "deBridge",
+  "symbol": "DBR",
+  "description": "BRIDGING, AT LIGHTSPEED. BECAUSE DEFI DOESN'T WAIT.",
+  "extensions": {
+    "website": "https://debridge.finance/",
+    "twitter": "https://x.com/deBridgeFinance",
+    "discord": "https://discord.com/invite/debridge",
+    "telegram": "https://t.me/deBridge_finance"
+  },
+  "image": "https://raw.githubusercontent.com/Bi9Snail/deBridge/main/deBridge_logo.png"
+}
